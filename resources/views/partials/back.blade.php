@@ -1,0 +1,1 @@
+<a class="btn btn-info" href="{{URL::previous()}}">Back</a>
