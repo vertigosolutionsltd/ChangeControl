@@ -17,8 +17,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::resource('forms', 'Form2Controller');
 
+
+Route::resource('forms', 'Form2Controller');
 
 // View all forms
 // Route::get('/forms', 'FormController@index');

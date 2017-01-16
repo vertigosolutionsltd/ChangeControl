@@ -132,7 +132,7 @@ class Form2Controller extends Controller
 	 */
 	public function update(Request $request, Form $form)
 	{
-		//$request->
+		return "Can't do that yet.. Hold your horses.";
 	}
 
 	/**

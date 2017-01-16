@@ -3,8 +3,6 @@
 	@include('partials.listlimit')
 @stop
 @section('content')
-	
-<hr class="lead"></hr>
 
 <div class="page-header">
 	<h1>View Forms</h1>
